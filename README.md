@@ -22,7 +22,7 @@ This FastAPI-based API provides **AI-powered market opportunity analysis reports
 ### 🔁 Clone & Navigate
 
 ```bash
-git clone https://github.com/yourusername/trade-opportunities-api.git
+git clone https://github.com/Dineshbalaji25/Trade-Opportunities.git
 cd trade-opportunities-api
 
 
